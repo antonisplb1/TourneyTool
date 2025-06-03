@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Node.js
+node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Docker
+docker-compose.override.yml
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Other
+*.log
+*.sqlite3
+*.db
+*.bak
